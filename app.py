@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 # ✅ Valid API keys
 VALID_API_KEYS = {
-    "KRNXMUSU" #dont change warna api nhi chale ga 
+    "your_key_here" #dont change warna api nhi chale ga 
 }
 
 def load_tokens(region):
